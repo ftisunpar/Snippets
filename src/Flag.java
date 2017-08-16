@@ -3,7 +3,7 @@
  * @author pascal
  */
 public class Flag {
-    public static final int HEIGHT = 10, WIDTH = 30;
+    public static final int HEIGHT = 20, WIDTH = 70;
     public static final String MESSAGE = "72 tahun Indonesia Kerja Bersama / Teknik Informatika UNPAR /";
     public static void main(String[] args) {
         for (int i = 0; i < HEIGHT; i++) {
